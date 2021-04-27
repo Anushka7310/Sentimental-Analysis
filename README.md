@@ -1,7 +1,7 @@
 
 # Sentimental-Analysis
  
- * Aim of this aim of this project is to build a sentiment analysis model which will allow us to categorize words based on their sentiments, that is whether they are positive, negative and also the magnitude of it.
+ * Aim of this project is to build a sentiment analysis model which will allow us to categorize words based on their sentiments, that is whether they are positive, negative and also the magnitude of it.
 
 ** Explanation**
 
